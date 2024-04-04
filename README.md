@@ -28,6 +28,15 @@ Choose option 3 from the main menu.
 Enter your roll number (a 6-digit integer).
 The system will display your booking history, including facility type, date, and timeslot.
 
+![home2](https://github.com/gprashant22github/Pclubsummerproject/assets/121344184/fb8477e8-4508-48e5-abff-1e943b78cfb9)
+
+![history2](https://github.com/gprashant22github/Pclubsummerproject/assets/121344184/23042313-fd67-4db9-9391-eea4eae2fa52)
+
+![booking2](https://github.com/gprashant22github/Pclubsummerproject/assets/121344184/5db3a7ab-3f84-4b16-8fc8-9cd2b9fccf9f)
+
+![availabilty](https://github.com/gprashant22github/Pclubsummerproject/assets/121344184/82d7c0c1-7b08-4bd7-9f08-1551585f71ea)
+
+
 
 
 Setup Instructions
